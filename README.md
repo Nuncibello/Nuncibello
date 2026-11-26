@@ -43,9 +43,9 @@ que sí es mío y está abierto:
 
 - **[prospector-empleos](#)** · motor de prospección apuntado a empleadores: seis
   fuentes públicas, puntaje de encaje y generación de mensajes. Node sin dependencias.
-- **[memecoin-alpha](#)** · sistema de medición sobre datos de mercado en vivo, con
-  tests de permutación y validación fuera de muestra. Terminó demostrando que la
-  estrategia que iba a medir no funciona, que es exactamente para lo que servía.
+- **[agente-rag-langgraph](https://github.com/Nuncibello/agente-rag-langgraph)** · agente RAG con LangGraph y pgvector,
+  salidas estructuradas validadas con zod y tests automáticos.
+- **[turnos-api-mongo](https://github.com/Nuncibello/turnos-api-mongo)** · API REST de turnos sobre MongoDB, con tests y CI.
 
 ---
 
